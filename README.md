@@ -1,6 +1,6 @@
 # vd100_ma_system_project
 
-Vitis system project that integrates the AIE-ML v2 graph, HLS kernels, and platform
+Vitis system project that integrates the AIE-ML graph, HLS kernels, and platform
 into the final `aie.xclbin` and BOOT.BIN component artifacts.
 
 ---
